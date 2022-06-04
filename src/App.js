@@ -61,7 +61,7 @@ const App = () => {
       <div>
         <nav className="navbar navbar-expand navbar-dark bg-dark">
           <Link to={"/"} className="navbar-brand">
-            bezKoder
+            Shakely Consulting
           </Link>
           <div className="navbar-nav mr-auto">
             <li className="nav-item">
